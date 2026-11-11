@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7F488FF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome%2C+I'm+Yujin+Choi+%F0%9F%91%8B;I'm+AI+engineering+student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7EA6BFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome%2C+I'm+Yujin+Choi+%F0%9F%91%8B;I'm+AI+engineering+student"/>
 </p>
-
 <p align="center">
   <a href="mailto:choiyujin7042@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
