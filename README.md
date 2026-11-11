@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f36c6f5-5583-48e5-918e-0a54214da585" alt="profile gif" width="320"/>
+</p>
 
 <!--
 **yujiniachoi/yujiniachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
